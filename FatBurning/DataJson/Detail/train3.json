@@ -1,0 +1,62 @@
+{
+    "description":"一块变六块，秀出你的六块肌！",
+    "icon":"Icon_weight_04_0",
+    "id":"train3",
+    "title":"腹部训练",
+    "workoutSet":[
+        {
+            "count":15,
+            "description":"1. 躺姿，雙腿向上抬起45度，雙手抱頭，上身些微抬起。\n2. 向右轉時右腳彎曲，反之亦然，。",
+            "hint":"秀出你的六块肌",
+            "images":[
+                "tabata_d_1_1",
+                "tabata_d_1_2"
+            ],
+            "perDuration":2,
+            "repeat":1,
+            "thumbnail":"tabata_d_1_0",
+            "title":"单车卷腹"
+        },
+        {
+            "count":15,
+            "description":"1. 躺姿，双手往上平放，双腿并拢打直。\n2. 起身时双腿抬起，双手再起身时顺势往斜上方打直。",
+            "hint":"秀出你的六块肌",
+            "images":[
+                "tabata_d_6_1",
+                "tabata_d_6_2"
+            ],
+            "perDuration":2,
+            "repeat":1,
+            "thumbnail":"tabata_d_6_0",
+            "title":"V字卷腹"
+        },
+        {
+            "count":15,
+            "description":"1. 平板姿势把脚并拢，保持上半身稳定，并专注利用腹部力量。\n2. d9 开合跳，一开一合为一次;跳开时尽量超出肩膀宽度。",
+            "hint":"双手握住毛巾两端后往上伸直",
+            "images":[
+                "tabata_d_9_1",
+                "tabata_d_9_2"
+            ],
+            "perDuration":2,
+            "repeat":1,
+            "thumbnail":"tabata_d_9_0",
+            "title":"平板开合跳"
+        },
+        {
+            "count":15,
+            "description":"1. 平板姿勢，上半身穩定，重量在腳趾。\n2. 腹部用力，將右膝往胸部彎曲，換邊亦然。",
+            "hint":"双手握住毛巾两端后往上伸直",
+            "images":[
+                "tabata_d_8_1",
+                "tabata_d_8_2",
+                "tabata_d_8_3",
+                "tabata_d_8_4"
+            ],
+            "perDuration":2,
+            "repeat":1,
+            "thumbnail":"tabata_d_8_0",
+            "title":"登山者"
+        }
+    ]
+}

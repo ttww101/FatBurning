@@ -1,0 +1,60 @@
+{
+    "description":"每天做一做，胖腿梨臀Out",
+    "icon":"Icon_weight_06_0",
+    "id":"train5",
+    "title":"臀腿训练",
+    "workoutSet":[
+        {
+            "count":15,
+            "description":"1. 抬头挺胸，双脚分开与肩同宽。\n2. 脚尖向前，蹲下时背部不离开墙面，膝盖不要超过脚尖。",
+            "hint":"胖腿梨臀Out",
+            "images":[
+                "tabata_f_1_1",
+                "tabata_f_1_2"
+            ],
+            "perDuration":2,
+            "repeat":1,
+            "thumbnail":"tabata_f_1_0",
+            "title":"靠墙半蹲"
+        },
+        {
+            "count":15,
+            "description":"1. 蹲下时小腿于地面平行，右脚弯曲，膝盖不要超过脚尖。",
+            "hint":"胖腿梨臀Out",
+            "images":[
+                "tabata_f_5_1",
+                "tabata_f_5_2"
+            ],
+            "perDuration":2,
+            "repeat":1,
+            "thumbnail":"tabata_f_5_0",
+            "title":"右蹲弓步"
+        },
+        {
+            "count":15,
+            "description":"1. 蹲下时小腿于地面平行，左脚弯曲，膝盖不要超过脚尖。",
+            "hint":"胖腿梨臀Out",
+            "images":[
+                "tabata_f_6_1",
+                "tabata_f_6_2"
+            ],
+            "perDuration":2,
+            "repeat":1,
+            "thumbnail":"tabata_f_6_0",
+            "title":"左蹲弓步"
+        },
+        {
+            "count":15,
+            "description":"1. 上半身和臀部向后坐，膝盖弯曲，不要超过脚尖。",
+            "hint":"胖腿梨臀Out",
+            "images":[
+                "tabata_f_4_1",
+                "tabata_f_4_2"
+            ],
+            "perDuration":2,
+            "repeat":1,
+            "thumbnail":"tabata_f_4_0",
+            "title":"深蹲"
+        }
+    ]
+}

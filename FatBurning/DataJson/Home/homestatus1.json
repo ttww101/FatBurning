@@ -1,0 +1,13 @@
+{
+    "background": "Background_Green",
+    "status": "working",
+    "title": "工作中",
+    "imgs": ["working1", "working2", "working3"],
+    "workoutSet": [
+        {
+            "buttonImage": "Icon_stretch_02",
+            "id": "stretch1",
+            "title": "工作伸展"
+        }
+    ]
+}

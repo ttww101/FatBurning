@@ -1,0 +1,87 @@
+{
+    "description": "起床动一动，为新的一天打开活力",
+    "icon": "Icon_stretch_01_0",
+    "id": "stretch0",
+    "time": 3,
+    "title": "起床伸展",
+    "workoutSet": [
+        {
+            "count": 30,
+            "description": "1. 躺姿，双腿悬空屈膝，双手紧贴地面。\n2. 腹部出力将背部抬起，用双手辅助支撑。",
+            "hint": "为新的一天打开活力",
+            "images": [
+                "la_1_1",
+                "la_1_1"
+            ],
+            "perDuration": 15,
+            "repeat": 1,
+            "thumbnail": "la_1_0",
+            "title": "反向仰卧"
+        },
+        {
+            "count": 30,
+            "description": "1. 躺姿，双腿悬空屈膝，双手紧贴地面。\n2. 转动腰部直至左侧腿部贴地，拉伸你的侧腹。",
+            "hint": "为新的一天打开活力",
+            "images": [
+                "la_2_1",
+                "la_2_1"
+            ],
+            "perDuration": 15,
+            "repeat": 1,
+            "thumbnail": "la_2_0",
+            "title": "左雨刷"
+        },
+        {
+            "count": 30,
+            "description": "1. 躺姿，双腿悬空屈膝，双手紧贴地面。\n2. 转动腰部直至右侧腿部贴地，拉伸你的侧腹。",
+            "hint": "为新的一天打开活力",
+            "images": [
+                "la_3_1",
+                "la_3_1"
+            ],
+            "perDuration": 15,
+            "repeat": 1,
+            "thumbnail": "la_3_0",
+            "title": "右雨刷"
+        },
+        {
+            "count": 30,
+            "description": "1. 趴姿，双手撑地。\n2. 将上半身抬起直至手臂伸直，感受腹部的拉伸。",
+            "hint": "为新的一天打开活力",
+            "images": [
+                "la_5_1",
+                "la_5_1"
+            ],
+            "perDuration": 15,
+            "repeat": 1,
+            "thumbnail": "la_5_0",
+            "title": "眼镜蛇"
+        },
+        {
+            "count": 30,
+            "description": "1. 站姿，右手平举于肩膀前，保持伸直。\n2. 左手向上勾起，将右手压往身体。",
+            "hint": "为新的一天打开活力",
+            "images": [
+                "la_11_1",
+                "la_11_1"
+            ],
+            "perDuration": 15,
+            "repeat": 1,
+            "thumbnail": "la_11_0",
+            "title": "右侧肩膀拉伸"
+        },
+        {
+            "count": 30,
+            "description": "1. 站姿，左手平举于肩膀前，保持伸直。\n2. 右手向上勾起，将左手压往身体。",
+            "hint": "为新的一天打开活力",
+            "images": [
+                "la_10_1",
+                "la_10_1"
+            ],
+            "perDuration": 15,
+            "repeat": 1,
+            "thumbnail": "la_10_0",
+            "title": "左侧肩膀拉伸"
+        }
+    ]
+}

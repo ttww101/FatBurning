@@ -1,0 +1,60 @@
+{
+    "description":"高强度动作，提高燃脂效率",
+    "icon":"Icon_weight_05_0",
+    "id":"train4",
+    "title":"燃脂训练",
+    "workoutSet":[
+        {
+            "count":15,
+            "description":"1. 双腿微弯向下蹲，双脚用力跳起。\n2. 双膝在空中尽量抬高，双脚微弯落地。",
+            "hint":"提高燃脂效率",
+            "images":[
+                "tabata_e_1_1",
+                "tabata_e_1_2"
+            ],
+            "perDuration":2,
+            "repeat":1,
+            "thumbnail":"tabata_e_1_0",
+            "title":"抱膝跳"
+        },
+        {
+            "count":20,
+            "description":"1. 腿抬高至90度，左右互换，可用双手前后摆动辅助。",
+            "hint":"提高燃脂效率",
+            "images":[
+                "tabata_e_2_1",
+                "tabata_e_2_2"
+            ],
+            "perDuration":1.5,
+            "repeat":1,
+            "thumbnail":"tabata_e_2_0",
+            "title":"高抬腿"
+        },
+        {
+            "count":20,
+            "description":"1. 左脚在前，右脚在后站开，左脚脚掌紧贴地面，右脚脚跟抬起。十指紧扣放在后脑勺，上半身重心稍微往后躺，将重心放在右后脚上。\n2. 向下蹲坐，让右脚膝盖近乎碰到地面；保持上半身挺直稳定，勿歪斜。",
+            "hint":"提高燃脂效率",
+            "images":[
+                "tabata_e_3_1",
+                "tabata_e_3_2"
+            ],
+            "perDuration":1.5,
+            "repeat":1,
+            "thumbnail":"tabata_e_3_0",
+            "title":"爬山者"
+        },
+        {
+            "count":20,
+            "description":"1. 利用侧腹部发力，将大腿带动起来。\n2. 不要蹦，原地抬腿。",
+            "hint":"提高燃脂效率",
+            "images":[
+                "tabata_e_5_1",
+                "tabata_e_5_2"
+            ],
+            "perDuration":1.5,
+            "repeat":1,
+            "thumbnail":"tabata_e_5_0",
+            "title":"HEISMAN"
+        }
+    ]
+}

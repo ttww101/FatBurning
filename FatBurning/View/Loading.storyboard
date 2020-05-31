@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="OOS-Ba-Jpg">
+    <device id="retina6_1" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="gPd-1U-qLJ">
+            <objects>
+                <viewController id="OOS-Ba-Jpg" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="C9P-c9-iA5">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Background_LaunchScreen" translatesAutoresizingMaskIntoConstraints="NO" id="TbW-y4-DaI">
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="862"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="TbW-y4-DaI" firstAttribute="leading" secondItem="Wun-Ea-sbO" secondAttribute="leading" id="SUO-QB-5q7"/>
+                            <constraint firstItem="Wun-Ea-sbO" firstAttribute="bottom" secondItem="TbW-y4-DaI" secondAttribute="bottom" id="lkq-Nz-pyy"/>
+                            <constraint firstItem="TbW-y4-DaI" firstAttribute="top" secondItem="C9P-c9-iA5" secondAttribute="top" id="rck-Eg-3g1"/>
+                            <constraint firstItem="Wun-Ea-sbO" firstAttribute="trailing" secondItem="TbW-y4-DaI" secondAttribute="trailing" id="x82-nb-te5"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="Wun-Ea-sbO"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="0uv-O5-bu4" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="152" y="125"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Background_LaunchScreen" width="375" height="667"/>
+    </resources>
+</document>

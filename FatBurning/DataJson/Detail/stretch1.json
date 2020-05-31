@@ -1,0 +1,87 @@
+{
+    "description": "工作久了酸痛难耐？舒缓你辛劳的身体",
+    "icon": "Icon_stretch_02_0",
+    "id": "stretch1",
+    "time": 3,
+    "title": "工作伸展",
+    "workoutSet": [
+        {
+            "count": 30,
+            "description": "1. 站姿，右手平举于肩膀前，保持伸直。\n2. 左手向上勾起，将右手压往身体。",
+            "hint": "为新的一天打开活力",
+            "images": [
+                "la_11_1",
+                "la_11_1"
+            ],
+            "perDuration": 15,
+            "repeat": 1,
+            "thumbnail": "la_11_0",
+            "title": "右侧肩膀拉伸"
+        },
+        {
+            "count": 30,
+            "description": "1. 站姿，左手平举于肩膀前，保持伸直。\n2. 右手向上勾起，将左手压往身体。",
+            "hint": "为新的一天打开活力",
+            "images": [
+                "la_10_1",
+                "la_10_1"
+            ],
+            "perDuration": 15,
+            "repeat": 1,
+            "thumbnail": "la_10_0",
+            "title": "左侧肩膀拉伸"
+        },
+        {
+            "count": 30,
+            "description": "1. 站姿，双手撑于墙面。\n2. 左腿往前踏一步微屈，右腿向后踏伸直。",
+            "hint": "舒缓你辛劳的身体",
+            "images": [
+                "la_9_1",
+                "la_9_1"
+            ],
+            "perDuration": 10,
+            "repeat": 1,
+            "thumbnail": "la_9_0",
+            "title": "称墙右腿拉伸"
+        },
+        {
+            "count": 30,
+            "description": "1. 站姿，双手撑于墙面。\n2. 右腿往前踏一步微屈，左腿向后踏伸直。",
+            "hint": "舒缓你辛劳的身体",
+            "images": [
+                "la_91_1",
+                "la_91_1"
+            ],
+            "perDuration": 10,
+            "repeat": 1,
+            "thumbnail": "la_91_0",
+            "title": "称墙左腿拉伸"
+        },
+        {
+            "count": 30,
+            "description": "1. 站姿，右脚后勾，右手抓着脚底板静止不动。",
+            "hint": "舒缓你辛劳的身体",
+            "images": [
+                "la_13_1",
+                "la_13_1"
+            ],
+            "perDuration": 10,
+            "repeat": 1,
+            "thumbnail": "la_13_0",
+            "title": "右四头肌伸展"
+        },
+        {
+            "count": 30,
+            "description": "1. 站姿，左脚后勾，左手抓着脚底板静止不动。",
+            "hint": "舒缓你辛劳的身体",
+            "images": [
+                "la_12_1",
+                "la_12_1"
+            ],
+            "perDuration": 10,
+            "repeat": 1,
+            "thumbnail": "la_12_0",
+            "title": "左四头肌伸展"
+        }
+    ]
+}

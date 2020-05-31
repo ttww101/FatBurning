@@ -1,0 +1,6 @@
+framework module Pods_FatBurning {
+  umbrella header "Pods-FatBurning-umbrella.h"
+
+  export *
+  module * { export * }
+}

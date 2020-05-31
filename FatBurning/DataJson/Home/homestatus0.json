@@ -1,0 +1,28 @@
+{
+    "background": "Background_Orange",
+    "status": "resting",
+    "title": "休息中",
+    "imgs": ["rest1", "rest2", "rest3"],
+    "workoutSet": [
+        {
+            "buttonImage": "Icon_stretch_01",
+            "id": "stretch0",
+            "title": "起床伸展"
+        },
+        {
+            "buttonImage": "Icon_weight_01",
+            "id": "train0",
+            "title": "全身运动"
+        },
+        {
+            "buttonImage": "Icon_weight_05",
+            "id": "train4",
+            "title": "燃脂训练"
+        },
+        {
+            "buttonImage": "Icon_stretch_03",
+            "id": "stretch2",
+            "title": "运动后伸展"
+        }
+    ]
+}

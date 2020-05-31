@@ -1,0 +1,74 @@
+{
+    "description": "睡前伸展，能提升睡眠品质喔！",
+    "icon": "Icon_stretch_04_0",
+    "id": "stretch3",
+    "time": 3,
+    "title": "睡前伸展",
+    "workoutSet": [
+        {
+            "count": 30,
+            "description": "1. 准备姿势，双膝跪地，双手撑于地面，头抬起。\n2. 背部拱起，保持不动。",
+            "hint": "提升睡眠品质",
+            "images": [
+                "la_6_1",
+                "la_6_1"
+            ],
+            "perDuration": 15,
+            "repeat": 1,
+            "thumbnail": "la_6_0",
+            "title": "猫牛式"
+        },
+        {
+            "count": 30,
+            "description": "1. 躺姿，双腿悬空屈膝，双手紧贴地面。\n2. 腹部出力将背部抬起，用双手辅助支撑。",
+            "hint": "提升睡眠品质",
+            "images": [
+                "la_1_1",
+                "la_1_1"
+            ],
+            "perDuration": 15,
+            "repeat": 1,
+            "thumbnail": "la_1_0",
+            "title": "反向仰卧"
+        },
+        {
+            "count": 30,
+            "description": "1. 趴姿，双手撑地。\n2. 将上半身抬起直至手臂伸直，感受腹部的拉伸。",
+            "hint": "舒缓紧绷的肌肉",
+            "images": [
+                "la_5_1",
+                "la_5_1"
+            ],
+            "perDuration": 15,
+            "repeat": 2,
+            "thumbnail": "la_5_0",
+            "title": "眼镜蛇"
+        },
+        {
+            "count": 30,
+            "description": "1. 躺姿，背部贴地并将右腿屈膝抬起。\n2. 双手环抱右腿，拉伸下背。",
+            "hint": "舒缓紧绷的肌肉",
+            "images": [
+                "la_14_1",
+                "la_14_1"
+            ],
+            "perDuration": 15,
+            "repeat": 1,
+            "thumbnail": "la_14_0",
+            "title": "右下背拉伸"
+        },
+        {
+            "count": 30,
+            "description": "1. 躺姿，背部贴地并将左腿屈膝抬起。\n2. 双手环抱左腿，拉伸下背。",
+            "hint": "舒缓紧绷的肌肉",
+            "images": [
+                "la_141_1",
+                "la_141_1"
+            ],
+            "perDuration": 15,
+            "repeat": 1,
+            "thumbnail": "la_141_0",
+            "title": "左下背拉伸"
+        }
+    ]
+}

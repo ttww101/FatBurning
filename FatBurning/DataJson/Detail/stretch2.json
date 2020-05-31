@@ -1,0 +1,61 @@
+{
+    "description": "运动后要舒缓紧绷的肌肉，让肌肉不再保持僵硬",
+    "icon": "Icon_stretch_03_0",
+    "id": "stretch2",
+    "time": 3,
+    "title": "运动后伸展",
+    "workoutSet": [
+        {
+            "count": 30,
+            "description": "1. 躺姿，双腿向上伸直抬起，双手向下贴地。\n2. 腹部出力，将上半身抬起。",
+            "hint": "舒缓紧绷的肌肉",
+            "images": [
+                "la_4_1",
+                "la_4_1"
+            ],
+            "perDuration": 15,
+            "repeat": 1,
+            "thumbnail": "la_4_0",
+            "title": "蹬天式"
+        },
+        {
+            "count": 30,
+            "description": "1. 躺姿，双腿悬空屈膝，双手紧贴地面。\n2. 转动腰部直至左侧腿部贴地，拉伸你的侧腹。",
+            "hint": "舒缓紧绷的肌肉",
+            "images": [
+                "la_2_1",
+                "la_2_1"
+            ],
+            "perDuration": 15,
+            "repeat": 2,
+            "thumbnail": "la_2_0",
+            "title": "左雨刷"
+        },
+        {
+            "count": 30,
+            "description": "1. 躺姿，双腿悬空屈膝，双手紧贴地面。\n2. 转动腰部直至右侧腿部贴地，拉伸你的侧腹。",
+            "hint": "舒缓紧绷的肌肉",
+            "images": [
+                "la_3_1",
+                "la_3_1"
+            ],
+            "perDuration": 15,
+            "repeat": 2,
+            "thumbnail": "la_3_0",
+            "title": "右雨刷"
+        },
+        {
+            "count": 30,
+            "description": "1. 趴姿，双手撑地。\n2. 将上半身抬起直至手臂伸直，感受腹部的拉伸。",
+            "hint": "舒缓紧绷的肌肉",
+            "images": [
+                "la_5_1",
+                "la_5_1"
+            ],
+            "perDuration": 15,
+            "repeat": 1,
+            "thumbnail": "la_5_0",
+            "title": "眼镜蛇"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "description":"每天简单做，增加肌肉量！",
+    "icon":"Icon_weight_02_0",
+    "id":"train1",
+    "title":"胸臂训练",
+    "workoutSet":[
+        {
+            "count":15,
+            "description":"1. 双手撑地，稍微比肩膀再宽一点。\n2. 伏地时身体保持一直线，不要贴地。",
+            "hint":"增加肌肉量",
+            "images":[
+                "tabata_b_1_1",
+                "tabata_b_1_2"
+            ],
+            "perDuration":2,
+            "repeat":1,
+            "thumbnail":"tabata_b_1_0",
+            "title":"伏地挺身"
+        },
+        {
+            "count":15,
+            "description":"1. 将双手支撑于椅子、双杠、板凳平面上，维持挺胸缩腹，肩带后收下压的状态。\n2. 下去时手肘之鹰嘴突朝后侧，并下沈至手肘弯曲90度，并再度将身体撑起。",
+            "hint":"双手握住毛巾两端后往上伸直",
+            "images":[
+                "tabata_b_2_1",
+                "tabata_b_2_2"
+            ],
+            "perDuration":2,
+            "repeat":1,
+            "thumbnail":"tabata_b_2_0",
+            "title":"三头上撑"
+        }
+    ]
+}

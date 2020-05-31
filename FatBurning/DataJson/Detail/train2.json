@@ -1,0 +1,62 @@
+{
+    "description":"炸裂你的人鱼线！",
+    "icon":"Icon_weight_03_0",
+    "id":"train2",
+    "title":"侧腹训练",
+    "workoutSet":[
+        {
+            "count":15,
+            "description":"1. 双脚并拢抬起，肚子收紧，上半身保持直立，身体呈现Ｖ字型预备。\n2. 上半身向左右旋转，来回算一次。",
+            "hint":"炸裂你的人鱼线",
+            "images":[
+                "tabata_c_1_1",
+                "tabata_c_1_2"
+            ],
+            "perDuration":2,
+            "repeat":1,
+            "thumbnail":"tabata_c_1_0",
+            "title":"俄罗斯扭转"
+        },
+        {
+            "count":15,
+            "description":"1. 平板姿势，膝盖弯曲至碰到旁边手肘，左右边轮流。\n2. 如果太困难，只要向旁边弯曲就好。",
+            "hint":"炸裂你的人鱼线",
+            "images":[
+                "tabata_c_9_1",
+                "tabata_c_9_2",
+                "tabata_c_9_3",
+                "tabata_c_9_4"
+            ],
+            "perDuration":4,
+            "repeat":1,
+            "thumbnail":"tabata_c_9_0",
+            "title":"蜘蛛人平板"
+        },
+        {
+            "count":15,
+            "description":"1. 站姿，双脚打开与肩同宽，双手向后抱头。\n2. 右脚侧边抬起，同时上半身向右侧弯曲。",
+            "hint":"炸裂你的人鱼线",
+            "images":[
+                "tabata_c_10_1",
+                "tabata_c_10_2"
+            ],
+            "perDuration":2,
+            "repeat":1,
+            "thumbnail":"tabata_c_10_0",
+            "title":"右站姿斜腹"
+        },
+        {
+            "count":15,
+            "description":"1. 站姿，双脚打开与肩同宽，双手向后抱头。\n2. 左脚侧边抬起，同时上半身向左侧弯曲。",
+            "hint":"炸裂你的人鱼线",
+            "images":[
+                "tabata_c_11_1",
+                "tabata_c_11_2"
+            ],
+            "perDuration":2,
+            "repeat":1,
+            "thumbnail":"tabata_c_11_0",
+            "title":"左站姿斜腹"
+        }
+    ]
+}
